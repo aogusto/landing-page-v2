@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "experience": "Experiência",
+    "education": "Formação"
+  },
+  "hero": {
+    "role": "Frontend Developer • React Expert",
+    "greeting": "Olá, eu sou",
+    "description": "Transformando conceitos complexos em interfaces elegantes e performáticas. Especialista em React, TypeScript e na criação de experiências web modernas."
+  },
+  "experience": {
+    "title": "Jornada Profissional",
+    "description": "Explore minha trajetória clicando nos cartões abaixo. Uma visualização interativa das minhas conquistas.",
+    "techTitle": "Stack Tecnológico",
+    "techDesc": "Exibindo tecnologias usadas em",
+    "techSelect": "Clique em uma experiência para filtrar"
+  },
+  "education": {
+    "title": "Formação Acadêmica",
+    "description": "A base teórica e técnica que fundamenta meu trabalho."
+  },
+  "footer": {
+    "copyright": "© 2024 Augusto Ribeiro."
+  },
+  "chat": {
+    "greeting": "Olá! Sou a IA do Augusto. Pergunte-me sobre os projetos, skills ou experiência dele.",
+    "placeholder": "Pergunte sobre minha experiência...",
+    "title": "Augusto AI Assistant",
+    "toggle": "Chat com IA",
+    "error": "Erro ao conectar com a IA. Tente novamente mais tarde.",
+    "fallback": "Desculpe, não consegui processar sua pergunta agora."
+  },
+  "social": {
+    "downloadCV": "Download CV"
+  },
+  "experiences": [
+    {
+      "id": "napp-present",
+      "role": "Senior Frontend Developer",
+      "company": "NAPP®",
+      "period": "Maio 2023 - Presente",
+      "description": "Atualmente desenvolvendo e mantendo uma plataforma que integra softwares de farmácia para gerenciar e sincronizar estoques de farmacêuticos com vários aplicativos. Responsável por construir e aprimorar a página de administração web para gerenciamento eficiente da plataforma utilizando React, Material UI, TypeScript, Vite e integrando APIs de um backend em Golang.",
+      "technologies": ["React", "Material UI", "TypeScript", "Vite", "Golang"],
+      "color": "bg-green-100 border-green-200"
+    },
+    {
+      "id": "napp-past",
+      "role": "Engenheiro de Integração",
+      "company": "NAPP®",
+      "period": "Março 2022 - Maio 2023",
+      "description": "Responsável pela conexão com shopping centers e farmácias para instalar e configurar ferramentas de integração com bancos de dados, garantindo sincronização de dados perfeita. Implementação de funcionalidades avançadas utilizando C# e Python e integração com bancos de dados como SQL, MySQL, PostgreSQL e outros.",
+      "technologies": ["C#", "Python", "SQL", "MySQL", "PostgreSQL"],
+      "color": "bg-blue-100 border-blue-200"
+    },
+    {
+      "id": "maker",
+      "role": "Frontend Developer",
+      "company": "Maker Robotics",
+      "period": "Setembro 2021 - Março 2022",
+      "description": "Desenvolvi uma aplicação web para estudantes acessarem e assistirem vídeo-aulas, criando uma interface amigável. Implementei funcionalidades principais e gerenciei interações com o banco de dados para garantir reprodução de vídeo contínua e acessibilidade utilizando JavaScript, Angular e Sass.",
+      "technologies": ["JavaScript", "Angular", "Sass"],
+      "color": "bg-purple-100 border-purple-200"
+    }
+  ],
+  "educationData": [
+    {
+      "id": "univesp",
+      "institution": "UNIVESP - Universidade Virtual do Estado de São Paulo",
+      "course": "Engenharia de Computação",
+      "period": "Jan 2025 - Dez 2030 (Cursando)",
+      "description": "Bacharelado em Engenharia de Computação, com foco no desenvolvimento de sistemas computacionais complexos, integração de hardware e software, e engenharia de dados."
+    },
+    {
+      "id": "etec",
+      "institution": "ETEC Dep. Salim Sedeh",
+      "course": "Técnico em Informática Integrado ao Ensino Médio",
+      "period": "2016 - 2018",
+      "description": "Formação técnica sólida em lógica de programação, desenvolvimento web, banco de dados e manutenção de computadores."
+    }
+  ]
+}
